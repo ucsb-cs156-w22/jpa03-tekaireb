@@ -1,6 +1,12 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tekaireb/branch/main/graph/badge.svg?token=c58ndGGhEj)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tekaireb)
 
-# demo-spring-react-example: dsre
+# jpa03-tekaireb
+
+Repo: https://github.com/ucsb-cs156-w22/jpa03-tekaireb
+
+Heroku: https://jpa03-tekaireb.herokuapp.com/
+
+Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-tekaireb
 
 Storybook is here:
 * Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/>
