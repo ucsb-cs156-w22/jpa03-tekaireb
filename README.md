@@ -4,7 +4,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa03-tekaireb
 
-Heroku: https://jpa03-tekaireb.herokuapp.com/
+Heroku: https://jpa03-tylerekaireb.herokuapp.com/
 
 Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-tekaireb
 
